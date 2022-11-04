@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    background-color: #32386D;
+    color: #FD3359;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+h1,h2{
+    text-align: center;
+    margin-top: 1em;
+}
+
+#display{
+    width: 2.5em;
+    height: 2.5em;
+    margin: 1em auto;
+    text-align: center;
+    padding-top: 0.6em;
+    border: 5px dashed white;
+    border-radius: 50%;
+    font-size: 150px;
+    color: #21BDFF;
+    font-weight: 600;
+}
+
+#wish span {
+    color: #41fd33;
+}
+
+#wish{
+    color: #F4D302;
+}
